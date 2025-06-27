@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Gerador e Analisador de Números Aleatórios</h1>
+    </header>
+
+    <main>
+        <section aria-labelledby="Titulo_formulario">
+
+            <h2 id="Titulo_formulario">Informe a quantidade de números</h2>
+
+            <form id="form_gerador">
+                <label for="quantidade">Quantidade: </label>
+                <input type="number" id="quantidade" name="quantidade" min="1" required>
+                <button type="submit">Gerar e Analisar</button>
+            </form>
+
+        </section>
+
+        <section aria-labelledby="Titulo_resultado">
+            <h2 id="Titulo_resultado">Resultado</h2>
+            <div id="resultado" role="region" aria-live="polite">
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Luis Gustavo — Desafio Web</p>
+    </footer>
+
+    <script src="JavaScript/script.js"></script>
+</body>
+</html>
