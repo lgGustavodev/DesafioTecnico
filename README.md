@@ -26,7 +26,7 @@ Para visualizar o Desafio, basta acessar o seguinte link: [Desafio Tecnico](http
 
 - **HTML5** — estrutura semântica e acessível da página
 - **CSS3** — estilização moderna, responsividade e animações
-- **JavaScript (Vanilla)** — lógica de programação, manipulação do DOM e controle da interação
+- **JavaScript** — lógica de programação, manipulação do DOM e controle da interação
 
 ---
 
