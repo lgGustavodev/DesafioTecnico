@@ -61,9 +61,7 @@ function exibirResultados(numeros, estatisticas) {
         </ul>
     `;
 
-    resultadoDiv.classList.remove('mostrar');
-
-    setTimeout(()=>{
-        resultadoDiv.classList.add('mostrar');
-    }, 10);
+    resultadoDiv.classList.remove('fade-in');
+    void resultadoDiv.offsetWidth; 
+    resultadoDiv.classList.add('fade-in');
 }
