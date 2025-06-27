@@ -72,7 +72,7 @@ Esse projeto permitiu consolidar conceitos fundamentais de desenvolvimento web m
 
 ## 📷 Demonstração
 
-![Demonstração da aplicação](caminho-para-screenshot-ou-gif)
+![Demonstração da aplicação](https://lggustavodev.github.io/DesafioTecnico/)
 
 ---
 
