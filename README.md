@@ -72,7 +72,7 @@ Esse projeto permitiu consolidar conceitos fundamentais de desenvolvimento web m
 
 ## 📷 Demonstração
 
-![Demonstração da aplicação](https://lggustavodev.github.io/DesafioTecnico/)
+Para visualizar o Desafio, basta acessar o seguinte link: [Meu Portfólio](https://lggustavodev.github.io/luisgustavodev/)
 
 ---
 
