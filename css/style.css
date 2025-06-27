@@ -81,9 +81,9 @@ button:hover{
     transform: translateY(20px);
 
 }
-#resultado.mostrar {
-    opacity: 1;
-    transform: translateY(0);
+#resultado ul {
+    list-style: none;
+    padding-left: 0;
 }
 .fade-in {
     opacity: 0;
