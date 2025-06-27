@@ -1,7 +1,10 @@
 # 🎲 Gerador e Analisador de Números Aleatórios
 
 Este projeto é uma aplicação web desenvolvida como desafio de processo seletivo. O objetivo é permitir ao usuário gerar uma quantidade definida de números aleatórios (de 1 a 100), e realizar análises estatísticas sobre eles, exibindo os resultados de forma organizada e responsiva na página.
+---
+## 📷 Demonstração
 
+Para visualizar o Desafio, basta acessar o seguinte link: [Desafio Tecnico](https://lggustavodev.github.io/DesafioTecnico/)
 ---
 
 ## 📌 Funcionalidades
@@ -67,12 +70,6 @@ Esse projeto permitiu consolidar conceitos fundamentais de desenvolvimento web m
 - Criação de layouts acessíveis e responsivos
 - Manipulação de dados e controle de interface via JavaScript puro (Vanilla JS)
 - Utilização de boas práticas em estrutura de código, modularidade e UX
-
----
-
-## 📷 Demonstração
-
-Para visualizar o Desafio, basta acessar o seguinte link: [Meu Portfólio](https://lggustavodev.github.io/luisgustavodev/)
 
 ---
 
